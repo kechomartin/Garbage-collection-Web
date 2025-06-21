@@ -28,7 +28,7 @@ Built with **React**, **Vite**, **TailwindCSS**, and integrated with **Leaflet**
 ## 📦 Installation
 
 ### Prerequisites
-
+``coming soon``
 - Node.js and npm installed  
   → Download from [https://nodejs.org](https://nodejs.org)
 
