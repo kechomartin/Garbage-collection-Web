@@ -12,7 +12,7 @@ Built with **React**, **Vite**, **TailwindCSS**, and integrated with **Leaflet**
 - 🕒 **Immediate or Recurring Scheduling:** Choose to have garbage picked up now or set up daily/weekly pickups.
 - 📍 **Location-Aware Agents:** (coming soon) Automatically assign agents based on proximity.
 - 📱 **Fully Responsive UI:** Clean, accessible layout across devices.
-- 🌳 **Custom Theming:** Styled with a modern **teal theme** and branded with an **oak tree** logo.
+- 🌳 **Custom Themes:** Styled with a modern **teal theme** and branded with an **oak tree** logo.
 
 ---
 
