@@ -1,5 +1,5 @@
 # ♻️ Garbage Collection Web App
-                                                --we get only one earth --
+                                                --we only get one earth --
 A responsive web application that allows users to request garbage collection services — instantly or on a recurring schedule — similar to how rideshare apps operate.
 
 Built with **React**, **Vite**, **TailwindCSS**, and integrated with **Leaflet** for geolocation mapping.
