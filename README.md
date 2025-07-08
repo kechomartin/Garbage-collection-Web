@@ -6,7 +6,7 @@ Built with **React**, **Vite**, **TailwindCSS**, and integrated with **Leaflet**
 
 ---
 
-## 🚀 Features
+## 🚀 Project features
 
 - 🌍 **Map-based Requests:** (coming soon) Users can share their location to summon nearby garbage collection agents.
 - 🕒 **Immediate or Recurring Scheduling:** Choose to have garbage picked up now or set up daily/weekly pickups.
