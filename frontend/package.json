@@ -1,6 +1,7 @@
 {
   "name": "garbage-collection-web",
   "version": "0.0.1",
+  "homepage": "https://kechomartin.github.io/Garbage-collection-Web",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
